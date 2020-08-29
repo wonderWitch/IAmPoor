@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "C:\\ProgramData\\Miniconda3\\envs\\pyspark-env\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
